@@ -1,0 +1,19 @@
+{
+  "name": "Scaffold.Screens",
+  "rootNamespace": "",
+  "references": [
+    "GUID:b87b8fe5b72bf7d41b35d0d1cac7d996"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [
+    "USE_SCAFFOLD_SCREENS",
+    "USE_SCAFFOLD_EVENTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

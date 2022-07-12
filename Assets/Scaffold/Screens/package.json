@@ -1,0 +1,23 @@
+{
+  "name": "com.scaffold.screens",
+  "displayName": "Scaffold Screens",
+  "description": "Screen and UI system, with abstractions and a few generic prefabs",
+  "unity": "2020.3",
+  "path": "",
+  "version": "0.0.1",
+  "author": {
+    "name": "Matheus",
+    "email": "matheus@hotmail.com",
+    "url": "https://www.matheuscohen.com.br"
+  },
+  "requiredModules": [
+    "com.scaffold.events"
+  ],
+  "requiredDefines": [
+    "USE_SCAFFOLD_SCREENS",
+    "USE_SCAFFOLD_EVENTS"
+  ],
+  "installDefines": [
+    "USE_SCAFFOLD_SCREENS"
+  ]
+}
